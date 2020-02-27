@@ -2,15 +2,12 @@ localizedName: Infinity Repair Point
 description: A Repair Point with extreme range and healing.
 type: RepairPoint
 health: 69420
-repairRadius: 2000
+repairRadius: 20000
 repairSpeed: 0.001
 hasPower: false
 powerUse: -1
 category: units
 requirements: [
-  normalsand/500
-  copper/150
-  lead/150
-  silicon/150
+  normalsand/0
 ]
 research: repair-point
