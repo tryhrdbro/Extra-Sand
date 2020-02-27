@@ -4,7 +4,7 @@ type: Mech
 flying: true
 drillPower: 69
 mineSpeed: 69420
-speed: 2
+speed: 50
 maxSpeed: 1000
 boostSpeed: 2000
 hitsize: 7
@@ -22,7 +22,7 @@ weapon: {
   ejectEffect: hitMeltdown
   width: 0
   alternate: true
-  reload: 2
+  reload: 1
   shots: 1
   shotDelay: 0
   inaccuracy: 0
@@ -32,9 +32,9 @@ weapon: {
     type: ArtilleryBulletType
     bulletSprite: sandy-sand-overseerblast
     speed: 10
-    damage: 100000000
-    splashDamage: 100000000
-    splashDamageRadius: 560
+    damage: 1000000000000
+    splashDamage: 1000000000000
+    splashDamageRadius: 5600
     bulletShrink: 0
     drag: 0
     incendChance: 0
