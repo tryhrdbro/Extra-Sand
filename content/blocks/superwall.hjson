@@ -1,10 +1,10 @@
 type: Wall
 name: Super  Wall
 description: A powerful regular wall.
-health: 6942069
+health: 69420690000
 group: walls
 category: defense
 requirements: [
-  normalsand/1500
+  normalsand/0
 ]
 research: phase-wall
