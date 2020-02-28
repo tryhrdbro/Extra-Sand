@@ -5,15 +5,15 @@ color: EFCA98
 lightColor: EFCA98
 explosiveness: 0
 flammability: 0
-temperature: -69
+temperature: -690
 viscosity: 0.96
-heatCapacity: 20
+heatCapacity: 200
 status: {
   name: supercoolant
   damage: -25
-  speedMultiplier: 1000
-  armorMultiplier: 1000
-  damageMultiplier: 1000
+  speedMultiplier: 100000
+  armorMultiplier: 10000000
+  damageMultiplier: 10000
   effect: overdriven
 }
 buildVisibility: sandboxOnly
