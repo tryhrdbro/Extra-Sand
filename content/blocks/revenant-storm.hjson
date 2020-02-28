@@ -17,9 +17,5 @@ size: 4
 category: units
 requirements: [
   normalsand/2000
-  plastanium/500
-  titanium/1500
-  lead/1500
-  silicon/2000
 ]
 research: revenant-factory
