@@ -11,9 +11,9 @@ heatCapacity: 200
 status: {
   name: supercoolant
   damage: -25
-  speedMultiplier: 100000
-  armorMultiplier: 10000000
-  damageMultiplier: 10000
+  speedMultiplier: 1000000000000
+  armorMultiplier: 1000000000000
+  damageMultiplier: 1000000000000
   effect: overdriven
 }
 buildVisibility: sandboxOnly
