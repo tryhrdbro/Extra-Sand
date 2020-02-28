@@ -4,7 +4,7 @@ type: Mech
 flying: true
 drillPower: 69
 mineSpeed: 69420
-speed: 50
+speed: 5
 maxSpeed: 1000
 boostSpeed: 2000
 hitsize: 7
@@ -22,8 +22,8 @@ weapon: {
   ejectEffect: hitMeltdown
   width: 0
   alternate: true
-  reload: 1
-  shots: 1
+  reload: 20
+  shots: 100
   shotDelay: 0
   inaccuracy: 0
   shake: 2
@@ -62,7 +62,7 @@ weapon: {
       speed: 5
       damage: 100000000
       splashDamage: 100000000
-      splashDamageRadius: 560
+      splashDamageRadius: 5600
       keepVelocity: false
       bulletShrink: 0
       drag: 0
