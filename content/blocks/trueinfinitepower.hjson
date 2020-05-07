@@ -10,6 +10,7 @@ maxNodes: 694200
 laserRange: 250
 health: 69420
 category: power
+alwaysUnlocked: true
 requirements: [
   normalsand/0
 ]
