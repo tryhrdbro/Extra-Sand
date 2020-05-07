@@ -15,6 +15,7 @@ consumes: {
 }
 size: 2
 category: units
+alwaysUnlocked: true
 requirements: [
   normalsand/0
 ]
