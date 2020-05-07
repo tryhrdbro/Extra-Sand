@@ -7,6 +7,7 @@ lightningChance: 5
 lightningDamage: 10000
 lightningLength: 200
 category: defense
+alwaysUnlocked: true
 requirements: [
   normalsand/0
 ]
