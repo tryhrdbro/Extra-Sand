@@ -7,12 +7,9 @@ itemCapacity: 50
 transportTime: 0
 hasPower: false
 category: distribution
-buildVisibility: sandboxOnly
+buildVisibility: shown
+alwaysUnlocked: true
 requirements: [
-  normalsand/150
-  phase-fabric/50
-  silicon/70
-  lead/100
-  graphite/100
+  normalsand/0
 ]
 research: spedconveyor
