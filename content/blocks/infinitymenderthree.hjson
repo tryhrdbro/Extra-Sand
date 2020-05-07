@@ -15,6 +15,7 @@ consumes: {
   }
 }
 category: effect
+alwaysUnlocked: true
 requirements: [
   normalsand/0
 ]
