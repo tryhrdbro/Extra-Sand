@@ -6,10 +6,11 @@ description: An Overdrive with infinite range. Quadruple the boost compared to t
 health: 69420
 range: 2000
 hasPower: false
+alwaysUnlocked: true
 consumes: {
   items: {
     items: [
-      phase-fabric/1
+      phase-fabric/0
     ]
     booster: true
     optional: true
