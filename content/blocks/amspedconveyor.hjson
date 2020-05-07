@@ -5,6 +5,7 @@ health: 69420
 speed: 6900
 itemCapacity: 69420
 category: distribution
+alwaysUnlocked: true
 requirements: [
   normalsand/0
 ]
