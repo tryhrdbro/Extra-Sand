@@ -5,8 +5,8 @@ speed: 1
 health: 69420
 capacity: 69
 category: distribution
+alwaysUnlocked: true
 requirements: [
-  normalsand/55
-  copper/20
+  normalsand/0
 ]
 research: spedconveyor
