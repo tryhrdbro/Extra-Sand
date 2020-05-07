@@ -8,19 +8,9 @@ description:
 type: CoreBlock
 breakable: true
 health: 1
+alwaysUnlocked: true
 size: 3
 category: effect
 requirements: [
-  normalsand/5000
-  copper/420
-  lead/420
-  titanium/420
-  thorium/420
-  silicon/420
-  graphite/420
-  metaglass/420
-  plastanium/420
-  surge-alloy/420
-  phase-fabric/420
 ]
 research: vault
