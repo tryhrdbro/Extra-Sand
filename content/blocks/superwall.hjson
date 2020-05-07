@@ -4,6 +4,7 @@ description: A powerful regular wall.
 health: 69420690000
 group: walls
 category: defense
+alwaysUnlocked: true
 requirements: [
   normalsand/0
 ]
