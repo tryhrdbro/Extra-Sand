@@ -1,0 +1,27 @@
+type: GenericCrafter
+name: "sand melter"
+description: "sand go melt melt."
+liquidCapacity: 50
+outputLiquid: {
+  liquid: creativecoolant
+  amount: 100
+}
+size: 3
+hasLiquids: true
+hasPower: true
+craftTime: 50
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.5
+  item: sand
+}
+requirements: [
+  lead/50
+  copper/80
+  silicon/20
+  shadum/10
+]
+category: crafting
+research: kiln
+idleSound: respawning
+idleSoundVolume: 0.5
