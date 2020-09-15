@@ -8,5 +8,5 @@ category: effect
 buildVisibility: lightingOnly
 alwaysUnlocked: true
 requirements: [
-  normalsand/0
+  copper/1
 ]
