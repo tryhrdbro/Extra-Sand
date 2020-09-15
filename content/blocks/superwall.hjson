@@ -6,6 +6,6 @@ group: walls
 category: defense
 alwaysUnlocked: true
 requirements: [
-  normalsand/0
+  copper/1
 ]
 research: phase-wall
