@@ -7,6 +7,6 @@ itemCapacity: 69420
 category: distribution
 alwaysUnlocked: true
 requirements: [
-  normalsand/0
+  copper/1
 ]
 research: spedconveyor
