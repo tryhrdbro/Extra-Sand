@@ -4,10 +4,10 @@ description: A powerful bullet reflecting wall.
 health: 69420690
 group: walls
 hitTime: 0
-maxDamageDeflect: 30000000
+maxDamageDeflect: 300000000
 alwaysUnlocked: true
 category: defense
 requirements: [
-  normalsand/0
+  copper/1
 ]
 research: superwall
