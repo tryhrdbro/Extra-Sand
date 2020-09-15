@@ -12,6 +12,6 @@ health: 69420
 category: power
 alwaysUnlocked: true
 requirements: [
-  normalsand/0
+  copper/1
 ]
 research: power-source
