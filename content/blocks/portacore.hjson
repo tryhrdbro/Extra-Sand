@@ -12,5 +12,6 @@ alwaysUnlocked: true
 size: 3
 category: effect
 requirements: [
+  copper/1
 ]
 research: vault
