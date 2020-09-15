@@ -10,6 +10,6 @@ category: distribution
 buildVisibility: shown
 alwaysUnlocked: true
 requirements: [
-  normalsand/0
+  copper/1
 ]
 research: spedconveyor
