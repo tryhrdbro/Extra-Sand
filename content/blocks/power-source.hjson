@@ -6,6 +6,6 @@ description:
   '''
 alwaysUnlocked: false
 requirements: [
-  normalsand/0
+  copper/1
 ]
 research: impact-reactor
