@@ -16,9 +16,7 @@ consumes: {
   item: sand
 }
 requirements: [
-  lead/50
-  copper/80
-  silicon/20
+  copper/1
 ]
 category: crafting
 research: kiln
