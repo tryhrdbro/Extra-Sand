@@ -4,11 +4,11 @@ description: A powerful surge lightning wall.
 health: 6942069
 group: walls
 lightningChance: 5
-lightningDamage: 10000
-lightningLength: 200
+lightningDamage: 100000
+lightningLength: 20
 category: defense
 alwaysUnlocked: true
 requirements: [
-  normalsand/0
+  copper/1
 ]
 research: superwall
