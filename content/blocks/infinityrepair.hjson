@@ -8,6 +8,6 @@ hasPower: false
 powerUse: 1
 category: units
 requirements: [
-  normalsand/0
+  copper/1
 ]
 research: repair-point
